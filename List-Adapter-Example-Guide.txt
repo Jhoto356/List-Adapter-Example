@@ -1,0 +1,5 @@
+1. Crear diseño de los items del reciclerView.
+2. Crear reciclerView y llamar al atributo listitem, y asignarle el paso 1.
+3. Crear modelo data class.
+https://www.udemy.com/course/minicurso-adaptadores-en-android-con-kotlin/learn/lecture/29028030#overview 
+ver la sección 2
